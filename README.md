@@ -1,0 +1,3 @@
+# Soluzioni temi d'esame in Python
+
+Questa repository contiene le mie soluzioni ai temi d'esame dell'insegnamento di [Statistica e Analisi dei Dati](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2024/statistica-e-analisi-dei-dati-0) del **CdL** di [Informatica](https://www.unimi.it/it/corsi/laurea-triennale/informatica) dell'[Università degli Studi di Milano](https://www.unimi.it/it).
